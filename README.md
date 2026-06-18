@@ -1,4 +1,4 @@
-# powerbi-ai-assisted-banking-dashboard
+# powerbi-ai-assisted-dashboard
 Creating a Power BI Dashboard, utilizing AI to assist in building, populating and laying it out 
 
 Utilized AI to generate organization, product, account, GL Account and customer dimension files with a GL Fact.

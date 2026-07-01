@@ -1,7 +1,8 @@
 # powerbi-ai-assisted-dashboard
 Creating a Power BI Dashboard, utilizing AI to assist in building, populating and laying it out 
 
-Utilized AI to generate organization, product, account, GL Account and customer dimension files with a GL Fact.
+Utilized AI to generate organization, product, account, GL Account and customer dimension files with a GL Fact.  Note that the data was generated 
+for a fictional bank with fictional clients and branches.
 I instructed the model to help construct a Power BI dashboard that would be useful for quarterly PNL and Balance Sheet review.
 
 The model generated a set of steps and some preliminary files to use as the basis of the star schema, along with: 
